@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+se usan 4 entradas y 7 salidas de para usar un dispaly de 7 segmentos con codigo binario
 
 ## How to test
 
-Explain how to use your project
+se prueban usando las entradas con combinaciones de codigo binario para sacar y plasmar en el dispaly un nuemro del (0-9)
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+display bdca 7 segmentos
