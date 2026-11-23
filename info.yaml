@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project: 
   wokwi_id:     481512530741327873    # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "GMV_DISPLAY"      # Project title
+  title:        "GMV_DISPLAY1"      # Project title
   author:       "Gael Moreno Vilchis"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "7segmt"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
