@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-se usan 4 entradas y 7 salidas de para usar un dispaly de 7 segmentos con codigo binario
+se usan 4 entradas y 7 salidas de para usar un dispaly de_7_segmentos con codigo binario
 
 ## How to test
 
